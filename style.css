@@ -1,0 +1,119 @@
+#header pre{
+    color:black;
+    font-size: 80px;
+}
+#header ul li{
+    text-decoration: none;
+    display: inline;
+    color: black;
+    font-size: 30px;
+    padding: 50px;
+    text-align: center;
+}
+#header{
+    background-color: rgb(224, 224, 245);
+    text-align: center;
+}
+#header img{
+    margin-left: 250px;
+    margin-right: 250px;
+    width: 500px;
+    height: 400px;
+}
+#Home p{
+    font-size: 40px;
+    text-align: center;
+}
+#Home pre{
+    font-size: 15px;
+}
+#shop p{
+    font-size: 40px;
+    text-align: center;
+}
+#shop img{
+    height: 150px;
+    width: 193px;
+}
+#shop ul li{
+    text-decoration: none;
+    display: inline;
+    color: black;
+    font-size: 20px;
+    padding: 70px;
+    text-align: center;
+}
+body{
+    background-color: rgb(228, 237, 245);
+}
+#About p{
+    font-size: 40px;
+    text-align: center;
+}
+#About pre{
+    font-size: 15px;
+}
+#list{
+   justify-content: space-between;
+   padding: 20px;
+}
+#list #box1{
+    display: flex;
+}
+#list #b1{
+    justify-content: space-between;
+    padding: 20px;
+    background-color:rgb(196, 228, 255);
+    margin-right: 290px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#list #b2{
+    justify-content: space-between;
+    padding: 20px;
+    background-color:rgb(196, 228, 255);
+     margin-bottom: 20px;
+}
+#list #box2{
+    display: flex;
+}
+#list #b3{
+    justify-content: space-between;
+    padding: 20px;
+    background-color:rgb(196, 228, 255);
+    margin-right: 290px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-left: 45px;
+}
+#list #b4{
+    justify-content: space-between;
+    padding: 20px;
+    background-color:rgb(196, 228, 255);
+     margin-bottom: 20px;
+     padding-left: 45px;
+}
+#list #box3{
+    display: flex;
+}
+#list #b5{
+    justify-content: space-between;
+    padding: 20px;
+    background-color:rgb(196, 228, 255);
+     margin-left: 325px;
+}
+#list p{
+    font-size: 40px;
+    text-align: center;
+}
+#Contact p{
+     font-size: 40px;
+    text-align: center;
+}
+#Contact{
+    text-align: center;
+    background-color: rgb(165, 253, 253);
+}
+#Contact pre{
+    font-size: 20px;
+}
